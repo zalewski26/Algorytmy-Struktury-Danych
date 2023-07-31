@@ -1,2 +1,2 @@
-# Algorytmy i Struktury Danych
-Listy zadań realizowane na potrzeby kursu Algorytmy i Struktury Danych.
+# Algorithms and data structures
+Tasks implemented for the Algorithms and data structures course at Wrocław University of Science and Technology.
